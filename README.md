@@ -1,6 +1,6 @@
 -  Hi, I’m Rinshad C, @tinkvu
 -  I’m interested in Automation and how it can be made for effective utilization for the future
--  I’m currently learning Artificial Intelligencce and Machine Learning by myself
+-  I’m a MSc. Artificial Intelligence student
 <!--- -  I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
