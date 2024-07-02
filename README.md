@@ -1,4 +1,4 @@
--  I’m a MSc. Artificial Intelligence student
+-  Cooking 🍳 
 <!--- -  I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
