@@ -1,6 +1,5 @@
 -  Cooking 🍳
 
--  <details>
 <summary>📊 <b><i>GitHub Stats</i></b></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tinkvu&show_icons=true&theme=gotham" alt="Rinshad Choorappara's Github Stats" />
 </details>
